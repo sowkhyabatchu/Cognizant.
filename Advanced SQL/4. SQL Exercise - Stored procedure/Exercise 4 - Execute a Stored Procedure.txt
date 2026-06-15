@@ -1,0 +1,5 @@
+Additional important hands-on
+
+Skill: Advanced SQL
+Folder: 4. SQL Exercise - Stored procedure
+Name: Exercise 4: Execute a Stored Procedure

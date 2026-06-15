@@ -1,0 +1,5 @@
+Additional important hands-on
+
+Skill: Advanced SQL
+Folder: 5. SQL Exercise - Functions
+Name: Exercise 7: Return Data from a Scalar Function

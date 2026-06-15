@@ -1,0 +1,5 @@
+Additional important hands-on
+
+Skill: Entity Framework Core 8.0
+Folder: EF Core 8.0 HOL
+Name: Lab 7: Writing Queries with LINQ

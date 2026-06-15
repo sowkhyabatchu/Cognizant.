@@ -1,0 +1,5 @@
+Additional important hands-on
+
+Skill: React
+Folder: 6. ReactJS-HOL
+Name: Hands-on in this document
